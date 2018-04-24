@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SmarthomeLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../18SS/OMI/UE/UE4/Handout/SmarthomeLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
